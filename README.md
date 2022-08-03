@@ -8,3 +8,4 @@ using Sha256 algorithm in the Crypto library. Other libraries/frameworks integra
 and CoreLocation.
 
 <img src='https://recordit.co/RgXotp47cq.gif' title='' width='' alt='' />
+<img src='https://recordit.co/1KpBAlbq5f.gif' title='' width='' alt='' />
