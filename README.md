@@ -7,4 +7,4 @@ and like/unlike other users posts. The application includes a secure login featu
 using Sha256 algorithm in the Crypto library. Other libraries/frameworks integrated are CoreData
 and CoreLocation.
 
-<img src='' title='' width='' alt='' />
+<img src='https://recordit.co/RgXotp47cq.gif' title='' width='' alt='' />
