@@ -6,3 +6,5 @@ Users can create/delete their own posts, browse other users posts local to the u
 and like/unlike other users posts. The application includes a secure login featuring password salt/hash
 using Sha256 algorithm in the Crypto library. Other libraries/frameworks integrated are CoreData
 and CoreLocation.
+
+<img src='Screen Shot FoodiGram SOHO Juice copy' title='Video Walkthrough' width='' alt='Video Walkthrough' />
